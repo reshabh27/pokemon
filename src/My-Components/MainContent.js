@@ -15,10 +15,10 @@ export const MainContent = () => {
 		<>
 	    <Switch>
                 <Route path="/" component={HomePage} exact />
-		<Route path="/pokemon" component={HomePage}/>
+				<Route path="/pokemon" component={HomePage}/>
                 <Route path="/favorite" component={Favorites} />
                 <Route path="/login" component={LoginPage} />
-		<Route path="/signup" component={SignUp} />
+				<Route path="/signup" component={SignUp} />
                 <Route component={Error} />
             </Switch>
 			
