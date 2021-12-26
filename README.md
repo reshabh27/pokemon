@@ -8,6 +8,7 @@ Users will able to:
 
 ## Built with
 
+- pokeapi
 - HTML
 - CSS properties
 - Javascript
